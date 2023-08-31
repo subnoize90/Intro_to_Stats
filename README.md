@@ -1,5 +1,5 @@
 # Intro_to_Stats
-A collection of methods and notes for Stats 216.
+A collection of methods for Stats 216.
 
 This package was designed for an Introductory Statistics course and contains prebuilt methods for basic statistical analysis. This module was made for use with course-provided materials including essential tables such as the area under the normal distribution curve, the area in the right tail of t-distribution, and critical values for the Pearson Correlation Coefficient. These values can be attained from other packages like Scipy but may yield slightly different results than course-provided tables as such it is recommended to use course-provided materials if using this package in parallel with a statistics class.
 
