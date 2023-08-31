@@ -6,6 +6,7 @@ This package was designed for an Introductory Statistics course and contains pre
 It is also worth noting that many of the functions that are built into this package are already built into popular Python packages such as Scipy and Pandas.  This project was an attempt to rebuild these functions with the working knowledge of the formulas and methods taught throughout the course. It is meant to be a resource for others who are taking an Intro to Stats course and are also trying to get a working Pythonic knowledge of statistics.
 
 Functions included:
+
 fact 					- get factorial 
 
 comb 					-get combinations
