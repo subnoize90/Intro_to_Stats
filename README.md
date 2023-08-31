@@ -7,22 +7,39 @@ It is also worth noting that many of the functions that are built into this pack
 
 Functions included:
 fact 					- get factorial 
+
 comb 					-get combinations
+
 perm					-get permutations 
+
 get_µX					-get mu of x (n*p)
+
 get_σX					-get std of x (sqrt of n*p*(1-p))
+
 get_µX_and_σX				-get std and mu of x
+
 get_σ_X̅				-get std of x bar (σ / sqrt of n)
+
 get_σ_p_hat				-get std of p hat (sqrt of p*(1-p)/n)
+
 get_z_0					-get z naught from p naught, p hat, and n
+
 get_confidence_interval_norm-		-get confidence interval from a normal distribution
+
 get_population_estimate_for_n		-get a population estimate based on confidence – C
+
 get_t_value				-get t-value from scipy
+
 get_t_confidence_interval		-get confidence interval from t-value,x bar, sample std, and n
+
 get_sample_size_estimate		-get sample size from Standard Error and confidence Za
+
 get_proportion_confidence_interval	-get a confidence interval for a proportion
+
 get_t_distribution				-get T distribution (x_bar - µ / (s / sqrt of n))	
+
 get_p_value_from_t_stat			- get p value from t stat using scipy
+
 get_z_score					-get z score from mean std and x
 
 big13						- use pandas series to return: count, STD, mean, 
